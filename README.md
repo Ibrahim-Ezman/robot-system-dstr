@@ -1,4 +1,4 @@
-# Warehouse Robot Navigation System — DSTR
+# Warehouse Robot Navigation System — Data Structures and Algorithms (DSTR)
 
 **CT077-3-2-DSTR | C++ | Group project**
 
