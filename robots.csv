@@ -1,0 +1,6 @@
+RobotID,Name,Status,CurrentOrderID,TotalTasksDone
+R001,RoboAlpha,AVAILABLE,,20
+R002,RoboBeta,BUSY,ORD006,12
+R003,RoboGamma,AVAILABLE,,26
+R004,RoboDelta,MAINTENANCE,,8
+R005,RoboEpsilon,AVAILABLE,,15

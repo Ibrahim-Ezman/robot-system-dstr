@@ -1,0 +1,12 @@
+ItemID,Name,ZoneID,AisleID,ShelfID,Quantity,Weight_kg
+ITEM_001,Laptop Computer,B,2,1,10,1.8
+ITEM_002,Wireless Mouse,A,1,4,45,0.2
+ITEM_003,Mechanical Keyboard,A,2,1,30,0.8
+ITEM_004,LED Monitor 24inch,A,2,3,12,3.5
+ITEM_005,USB Cable Pack,B,1,1,80,0.3
+ITEM_006,External Hard Drive,B,1,3,25,0.5
+ITEM_007,Webcam HD,B,2,2,18,0.4
+ITEM_008,Laptop Charger,B,2,4,35,0.6
+ITEM_009,Wireless Headset,C,1,1,22,0.7
+ITEM_010,Phone Stand,C,1,2,50,0.3
+ITEM_011,MacBook Neo,A,1,4,14,0.9
