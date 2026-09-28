@@ -1,6 +1,6 @@
 # Warehouse Robot Navigation System — DSTR
 
-**CT077-3-2-DSTR | C++ | Group project (4–5 members)**
+**CT077-3-2-DSTR | C++ | Group project**
 
 A warehouse robot simulation: orders queue up, robots rotate via circular queue, BST finds item locations, and an N-ary tree models the warehouse layout for route planning.
 
