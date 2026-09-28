@@ -6,8 +6,8 @@ A warehouse robot simulation: orders queue up, robots rotate via circular queue,
 
 ## My part: Task 5 — Warehouse Layout N-ary Tree
 
-- `WarehouseNode.hpp` / `WarehouseTree.hpp` / `WarehouseTree.cpp` — N-ary tree with `buildFromCSV()`, `generateRoute()` (ENTER_ZONE → MOVE_TO_AISLE → MOVE_TO_SHELF), BFS, DFS, `findNode()`, `displayTree()`
-- Integrated into `main.cpp` — Task 5 routes feed into Task 3 (Path Stack); menu options 14–17
+- `robot-system/WarehouseNode.hpp` / `WarehouseTree.hpp` / `WarehouseTree.cpp` — N-ary tree with `buildFromCSV()`, `generateRoute()` (ENTER_ZONE → MOVE_TO_AISLE → MOVE_TO_SHELF), BFS, DFS, `findNode()`, `displayTree()`
+- Integrated into `robot-system/main.cpp` — Task 5 routes feed into Task 3 (Path Stack); menu options 14–17
 
 Why N-ary tree? Warehouse → zones → aisles → shelves is a natural parent-child hierarchy.
 
